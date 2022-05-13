@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Lem-c
-- 👀 I’m interested in CS programming
+- 👀 Too the very best of times
 
 - 📫 How to reach me -> 1293058176@qq.com
 
