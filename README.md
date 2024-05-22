@@ -11,13 +11,13 @@
 ## 💼 Experience
 - **Software Developer**
   - 🖥️ Developed UIs with Vue3, Python Flask, deployed on Raspberry Pi
-- **Research Assistant** @ UNNC (06.2021 - 12.2021)
+- **Research Assistant** @ UNNC
   - 🛩️ UAV simulation, path planning, obstacle avoidance with Python
 
 ## 👨‍💻 Projects
 - **Traffic Control Simulation Tool** (09.2021 - 05.2022)
   - 🚦 Built with C++, QT
-- **Unity Development** (01.2023 - 04.2023)
+- **Unity Development** (12.2022 - 04.2023)
   - 🤖 Robot navigation with C#
 
 ## 📸 Extras
