@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuhao Chen!
 
-👀 To the very best of times
+To the very best of times
 
 - 📫 How to reach me -> cccccyh6048@gmail.com
 
