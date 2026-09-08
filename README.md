@@ -23,7 +23,7 @@ To the very best of times
 
 ### Research Assistant — UNNC
 
-- Developed UAV simulations for path planning and obstacle avoidance using Python.
+- Developed UAV simulations for path planning and obstacle avoidance using C++.
 
 ## 📚 Research & Publication
 
