@@ -48,7 +48,7 @@ To the very best of times
 
 ## 💡 Skills
 
-- **Spoken languages:** Mandarin (native), English (fluent)
+- **Spoken languages:** Mandarin (native), English (fluent), Cantonese (learning)
 - **Programming:** Python, R, JavaScript, HTML, SQL, C, C++, Java, C#
 - **AI and data:** Computer vision, YOLOv5, OpenCV, RAG, agent workflows, MCP, pandas, scikit-learn, XGBoost, LightGBM
 - **Spatial and visualization:** GeoPandas, QGIS, Google Earth Engine, Mapbox, D3.js, ECharts
