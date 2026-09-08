@@ -19,14 +19,11 @@ To the very best of times
 
 - Evaluated lightweight YOLOv5 models for detecting helmets and high-visibility safety garments.
 - Selected a compact model by balancing detection performance, computational cost, and deployment requirements.
+- Built user interfaces with Vue 3 and Python Flask and deployed applications on Raspberry Pi.
 
 ### Research Assistant — UNNC
 
 - Developed UAV simulations for path planning and obstacle avoidance using Python.
-
-### Software Developer
-
-- Built user interfaces with Vue 3 and Python Flask and deployed applications on Raspberry Pi.
 
 ## 📚 Research & Publication
 
